@@ -1,4 +1,4 @@
-# Fit-The-Exit - AI-Powered Automated Analytics
+# Fit-The-Exit - Customer Drop-Off Analytics
 
 Fit-The-Exit is an intelligent, agentic pipeline that autonomously analyzes website customer interaction data, generates actionable insights in real-time, and enables rapid data-driven decision-making with minimal human intervention.
 
@@ -59,7 +59,7 @@ Fit-The-Exit uses an "LLM as a Judge" framework:
 ---
 
 
-## 📥 Contributors:
+## 📥 Collaborators:
 Abu Anas, Sai Nishith Varaganti, Pratyush Vats, Tarun Negi
 
 
